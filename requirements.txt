@@ -1,0 +1,33 @@
+
+# Deep Learning
+tensorflow>=2.15.0
+keras>=3.0.0
+
+# Streamlit
+streamlit>=1.28.0
+
+# Computer Vision
+opencv-python>=4.8.0  # or opencv-python-headless for server
+mediapipe>=0.10.5
+
+# Image Processing
+Pillow>=10.0.0
+numpy>=1.24.0
+scikit-image>=0.21.0
+
+# Data Science
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# Utility
+tqdm>=4.65.0
+h5py>=3.9.0
+protobuf>=3.20.0
